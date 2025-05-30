@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Arjunp678
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Arjunp678/Arjunp678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Arjun
+- 👀 I’m interested in building innovative Salesforce solutions that streamline business processes and improve customer experiences.
+- 🌱 I’m currently learning Salesforce Development, including Apex, Lightning Web Components (LWC), and integration techniques.
+- 💞️ I’m looking to collaborate on open-source Salesforce projects, volunteer Salesforce orgs, and anything that helps me grow as a developer.
+- 📫 How to reach me: arjun.salesforce.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/arjunp678)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I started my tech journey with CNC machines and now I’m crafting cloud solutions on the Salesforce platform!
