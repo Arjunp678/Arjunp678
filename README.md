@@ -2,6 +2,6 @@
 - 👀 I’m interested in building innovative Salesforce solutions that streamline business processes and improve customer experiences.
 - 🌱 I’m currently learning Salesforce Development, including Apex, Lightning Web Components (LWC), and integration techniques.
 - 💞️ I’m looking to collaborate on open-source Salesforce projects, volunteer Salesforce orgs, and anything that helps me grow as a developer.
-- 📫 How to reach me: arjun.salesforce.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/arjunp678)
+- 📫 How to reach me: aarjunsumathi@gmail.com | [LinkedIn](https://www.linkedin.com/in/arjunp678)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started my tech journey with CNC machines and now I’m crafting cloud solutions on the Salesforce platform!
